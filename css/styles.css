@@ -1,0 +1,163 @@
+body {
+	background-color: #E5DEDE;
+}
+
+#heading{
+	font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    display:inline-block;
+
+
+}
+
+#intro{
+	display:inline-block;
+	font-family: Helvetica;
+	font-size:18px;
+	width:960px;
+
+}
+
+.container {
+  position: relative; 
+}
+
+.navbar{
+	width:960px;
+    border-width: 4px;
+    border-color: black;
+}
+
+.fixed{
+	position: fixed; 
+	top: 0; 
+	height: 70px; 
+	z-index: 1;
+}
+
+#wrapper{
+	width:960px;
+	margin:0 auto;
+	position:relative;
+}
+
+.bimg{
+	margin-top: 0px;
+	width:960px;
+	background-color: #FFF;
+}
+
+.overlay{
+    transition: opacity 300ms linear;
+    opacity:0;
+    position:absolute;
+}
+
+.visible{
+	opacity:0.9;
+}
+
+#cover1-overlay1{
+	top:435px;
+	left:27px;
+	position: absolute;
+}
+
+#cover1-overlay2{
+	top:421px;
+	left:703px;
+	position: absolute;
+}	
+
+#cover1-overlay3{
+	top:595px;
+	position: absolute;
+}
+
+#cover1-overlay4{
+	top:1260px;
+	position: absolute;
+}	
+
+
+#cover2-overlay1{
+	top:2121px;
+	position: absolute;
+}
+
+#cover2-overlay2{
+	top:2121px;
+	left:703px;
+	position: absolute;
+}	
+
+#cover2-overlay3{
+	top:2915px;
+	position: absolute;
+}
+
+#cover3-overlay1{
+	top:4100px;
+	position: absolute;
+}
+
+#cover3-overlay2{
+	top:4000px;
+	left:703px;
+	position: absolute;
+}	
+
+#cover3-overlay3{
+	top:4295px;
+	position: absolute;
+}
+
+#cover3-overlay4{
+	top:4260px;
+	position: absolute;
+}	
+
+#cover4-overlay1{
+	top:4100px;
+	position: absolute;
+}
+
+#cover4-overlay2{
+	top:4000px;
+	left:703px;
+	position: absolute;
+}	
+
+#cover4-overlay3{
+	top:4295px;
+	position: absolute;
+}
+
+#cover4-overlay4{
+	top:4260px;
+	position: absolute;
+}	
+
+#cover5-overlay1{
+	top:4100px;
+	position: absolute;
+}
+
+#cover5-overlay2{
+	top:4000px;
+	left:703px;
+	position: absolute;
+}	
+
+
+#cover5-overlay3{
+	top:4295px;
+	position: absolute;
+}
+
+
+#cover5-overlay4{
+	top:4295px;
+	position: absolute;
+}
